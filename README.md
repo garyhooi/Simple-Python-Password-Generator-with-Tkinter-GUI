@@ -4,7 +4,7 @@ Simple-Python-Password-Generator-with-Tkinter-GUI is a simple password generator
 ## Setup Environment
 You need python 3 to execute the program.
 
-To download Python 3, click [here](https://www.python.org/downloads/)
+To download Python 3, click [here](https://www.python.org/downloads/).
 
 ## Run the Program
 For Windows user: Navigate to the /Password Generator/dist folder. You can execute the program by clicking on the "PasswordGenerator.exe".
