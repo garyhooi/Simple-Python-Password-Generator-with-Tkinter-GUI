@@ -14,5 +14,5 @@ For Linux/Mac user: Navigate to the "Password Generator" folder and use the comm
 python3 PasswordGenerator.py
 ```
 
-## Licence
+## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
