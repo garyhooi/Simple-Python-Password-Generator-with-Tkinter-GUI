@@ -1,5 +1,5 @@
 # Simple-Python-Password-Generator-with-Tkinter-GUI
-Simple Python Password Generator with Tkinter GUI is a simple password generator which is able to generate a complicate password for you.
+Simple-Python-Password-Generator-with-Tkinter-GUI is a simple password generator which is able to generate a complicate password for you.
 
 ## Setup Environment
 You need python 3 to execute the program.
